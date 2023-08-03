@@ -3,9 +3,7 @@
 
 ### :man_technologist: About Me:
 
-Portfolio - Cybersecurity Professional
 
-Introduction:
 I am a passionate and dedicated individual with a strong foundation in computer science and a focus on cybersecurity. My journey in the IT world started with the Competitive Programming Club, where I honed my problem-solving skills and gained expertise in C++, Python, and data structures. Over the years, I have achieved significant milestones in competitive programming, including participating in prestigious international and regional Olympiads, earning gold and silver medals, and maintaining a Codeforces handle with a commendable rating.
 
 
