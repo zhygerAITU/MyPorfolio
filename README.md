@@ -3,13 +3,54 @@
 
 ### :man_technologist: About Me:
 
-As an aspiring cybersecurity professional, I have a strong foundation in programming and problem-solving gained through my achievements in competitive programming, where I secured top positions and medals in various regional and international olympiads. My technical skills in C++, Python, and Web3<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, along with my proficiency in Git, give me a solid understanding of software development and version control, which are crucial in cybersecurity.
+Portfolio - Cybersecurity Professional
 
-Moreover, I have a keen interest in blockchain technology, as demonstrated by my role as a DeFi Gaming Enthusiast and Python/Web3 Developer, managing multiple accounts and executing numerous transactions on the Avalanche blockchain. This experience has honed my ability to identify security risks and protect digital assets.
+Introduction:
+I am a passionate and dedicated individual with a strong foundation in computer science and a focus on cybersecurity. My journey in the IT world started with the Competitive Programming Club, where I honed my problem-solving skills and gained expertise in C++, Python, and data structures. Over the years, I have achieved significant milestones in competitive programming, including participating in prestigious international and regional Olympiads, earning gold and silver medals, and maintaining a Codeforces handle with a commendable rating.
 
-Additionally, my commitment to teaching and mentoring, evident from conducting training and lectures on algorithms for junior members and volunteering to teach programming to high school students, reflects my strong communication and teamwork skills, essential for collaborating effectively with cybersecurity teams.
 
-With a recent certification in Machine Learning and my continuous pursuit of knowledge, I am eager to contribute my expertise and passion for cybersecurity to safeguard critical data and systems. I am excited about the opportunity to bring my unique set of skills and accomplishments to your esteemed organization and make a significant impact in the field of cybersecurity.
+Education & Certifications:
+
+Google Cybersecurity Professional Certificate - Completed with distinction [Date]
+Machine Learning Course - Coursera (by Andrew Ng) [Jul 2, 2023]
+Technical Skills:
+
+Proficient in C++, Python, Octave, Web3, and Git, which form a solid foundation for understanding cybersecurity concepts and methodologies.
+Acquired knowledge of machine learning, providing insights into anomaly detection and threat analysis.
+Cybersecurity Projects:
+
+DeFi Gaming Security (Python/Web3):
+Managed and secured 10+ DeFi game accounts with 30 NFT heroes on the Avalanche blockchain.
+Developed Python scripts for quests, battles, and hero leveling, ensuring robust security measures to protect digital assets.
+
+
+Academic Achievements:
+
+International Olympiad Innopolis IT (2019):
+Demonstrated exceptional problem-solving abilities among 500+ participants.
+Codeforces - Handle: Zhigrrr - Max Rating 1501:
+Consistently achieved commendable ratings in competitive programming competitions.
+Kazakhstan BILIM Olympiad - Gold Medal (May 9-11, 2019):
+Earned a gold medal for outstanding performance in a national-level Olympiad.
+Regional Olympiad - Silver Medal (2020-2021) & Bronze Medal (2019-2020):
+Demonstrated consistent excellence in regional competitions.
+Regional Olympiad (2018-2019):
+Participated and showcased skills in regional-level competitions.
+Soft Skills:
+
+
+Proven ability in time management, teamwork, networking, and conflict resolution, essential qualities for effective cybersecurity professionals.
+Activities:
+
+
+Competitive Programming Club (2017-2020):
+Solved over 500+ competitive programming problems, enhancing problem-solving and critical thinking abilities.
+Conducted training sessions to mentor junior club members on various algorithms and data structures.
+Volunteering (2021-2022):
+Taught high school students programming in C++ and assisted with Olympiad problem-solving, contributing to knowledge dissemination in underserved communities.
+
+
+With a strong technical background, exceptional problem-solving skills, and a demonstrated passion for cybersecurity, I am eager to apply my expertise and knowledge in securing digital assets and protecting organizations from cyber threats. I believe my diverse experiences and continuous learning make me a valuable addition to any cybersecurity team.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
