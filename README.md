@@ -1,6 +1,14 @@
 # MyPortfolio: Dauitkanov Zhiger
 ---
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+
+
 ### :man_technologist: About Me:
 
 As an entry-level cybersecurity analyst, I am exceptionally helpful due to my unique blend of skills and knowledge. With the completion of the Google Cybersecurity Professional Certificate, I have gained comprehensive expertise in essential cybersecurity domains, including network security, encryption, and incident response. My training has honed my ability to assess and mitigate security risks effectively. I possess a keen eye for detail and a tenacious approach to problem-solving, allowing me to identify and neutralize potential threats promptly. My passion for staying updated with the latest cybersecurity trends and technologies further enhances my value as a cybersecurity analyst. Hiring me would not only bring a dedicated and well-trained professional but also a team member committed to fortifying your organization's digital defenses and ensuring a secure digital environment.
@@ -15,7 +23,7 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhygerD) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhyger.0001@gmail.com)
 
 ---
 
