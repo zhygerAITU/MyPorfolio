@@ -3,52 +3,7 @@
 
 ### :man_technologist: About Me:
 
-
-I am a passionate and dedicated individual with a strong foundation in computer science and a focus on cybersecurity. My journey in the IT world started with the Competitive Programming Club, where I honed my problem-solving skills and gained expertise in C++, Python, and data structures. Over the years, I have achieved significant milestones in competitive programming, including participating in prestigious international and regional Olympiads, earning gold and silver medals, and maintaining a Codeforces handle with a commendable rating.
-
-
-Education & Certifications:
-
-Google Cybersecurity Professional Certificate - Completed with distinction [Date]
-Machine Learning Course - Coursera (by Andrew Ng) [Jul 2, 2023]
-Technical Skills:
-
-Proficient in C++, Python, Octave, Web3, and Git, which form a solid foundation for understanding cybersecurity concepts and methodologies.
-Acquired knowledge of machine learning, providing insights into anomaly detection and threat analysis.
-Cybersecurity Projects:
-
-DeFi Gaming Security (Python/Web3):
-Managed and secured 10+ DeFi game accounts with 30 NFT heroes on the Avalanche blockchain.
-Developed Python scripts for quests, battles, and hero leveling, ensuring robust security measures to protect digital assets.
-
-
-Academic Achievements:
-
-International Olympiad Innopolis IT (2019):
-Demonstrated exceptional problem-solving abilities among 500+ participants.
-Codeforces - Handle: Zhigrrr - Max Rating 1501:
-Consistently achieved commendable ratings in competitive programming competitions.
-Kazakhstan BILIM Olympiad - Gold Medal (May 9-11, 2019):
-Earned a gold medal for outstanding performance in a national-level Olympiad.
-Regional Olympiad - Silver Medal (2020-2021) & Bronze Medal (2019-2020):
-Demonstrated consistent excellence in regional competitions.
-Regional Olympiad (2018-2019):
-Participated and showcased skills in regional-level competitions.
-Soft Skills:
-
-
-Proven ability in time management, teamwork, networking, and conflict resolution, essential qualities for effective cybersecurity professionals.
-Activities:
-
-
-Competitive Programming Club (2017-2020):
-Solved over 500+ competitive programming problems, enhancing problem-solving and critical thinking abilities.
-Conducted training sessions to mentor junior club members on various algorithms and data structures.
-Volunteering (2021-2022):
-Taught high school students programming in C++ and assisted with Olympiad problem-solving, contributing to knowledge dissemination in underserved communities.
-
-
-With a strong technical background, exceptional problem-solving skills, and a demonstrated passion for cybersecurity, I am eager to apply my expertise and knowledge in securing digital assets and protecting organizations from cyber threats. I believe my diverse experiences and continuous learning make me a valuable addition to any cybersecurity team.
+As an entry-level cybersecurity enthusiast, I am incredibly helpful because of my relentless dedication to enhancing digital security measures. With a solid foundation in cybersecurity principles and best practices, I possess a fresh perspective and a thirst for continuous learning in the rapidly evolving field. My strong analytical and problem-solving skills, coupled with my ability to collaborate effectively with teams, enable me to identify vulnerabilities and implement effective solutions to safeguard sensitive information. Hiring me would not only bring a promising talent to your organization but also a passionate individual who is committed to fortifying your digital defenses and contributing positively to your cybersecurity endeavors.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
