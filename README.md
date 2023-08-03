@@ -3,7 +3,7 @@
 
 ### :man_technologist: About Me:
 
-As an aspiring cybersecurity professional, I have a strong foundation in programming and problem-solving gained through my achievements in competitive programming, where I secured top positions and medals in various regional and international olympiads. My technical skills in C++, Python, and Web3, along with my proficiency in Git, give me a solid understanding of software development and version control, which are crucial in cybersecurity.
+As an aspiring cybersecurity professional, I have a strong foundation in programming and problem-solving gained through my achievements in competitive programming, where I secured top positions and medals in various regional and international olympiads. My technical skills in C++, Python, and Web3<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, along with my proficiency in Git, give me a solid understanding of software development and version control, which are crucial in cybersecurity.
 
 Moreover, I have a keen interest in blockchain technology, as demonstrated by my role as a DeFi Gaming Enthusiast and Python/Web3 Developer, managing multiple accounts and executing numerous transactions on the Avalanche blockchain. This experience has honed my ability to identify security risks and protect digital assets.
 
