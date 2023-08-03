@@ -3,7 +3,7 @@
 
 ### :man_technologist: About Me:
 
-As an entry-level cybersecurity enthusiast, I am incredibly helpful because of my relentless dedication to enhancing digital security measures. With a solid foundation in cybersecurity principles and best practices, I possess a fresh perspective and a thirst for continuous learning in the rapidly evolving field. My strong analytical and problem-solving skills, coupled with my ability to collaborate effectively with teams, enable me to identify vulnerabilities and implement effective solutions to safeguard sensitive information. Hiring me would not only bring a promising talent to your organization but also a passionate individual who is committed to fortifying your digital defenses and contributing positively to your cybersecurity endeavors.
+As an entry-level cybersecurity analyst, I am exceptionally helpful due to my unique blend of skills and knowledge. With the completion of the Google Cybersecurity Professional Certificate, I have gained comprehensive expertise in essential cybersecurity domains, including network security, encryption, and incident response. My training has honed my ability to assess and mitigate security risks effectively. I possess a keen eye for detail and a tenacious approach to problem-solving, allowing me to identify and neutralize potential threats promptly. My passion for staying updated with the latest cybersecurity trends and technologies further enhances my value as a cybersecurity analyst. Hiring me would not only bring a dedicated and well-trained professional but also a team member committed to fortifying your organization's digital defenses and ensuring a secure digital environment.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
