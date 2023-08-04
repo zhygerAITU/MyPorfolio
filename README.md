@@ -31,7 +31,7 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
     <a href="https://www.linkedin.com/in/zhiger-dauitkanov-44038827b/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/tehnomaniak07" target="_blank">
+    <a href="https://t.me/zhygerD" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
