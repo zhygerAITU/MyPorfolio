@@ -64,7 +64,7 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -77,4 +77,3 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
 | stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
---- -->
