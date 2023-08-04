@@ -35,7 +35,7 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
 
 ---
 
-### 💻 Технологии:
+### 💻 Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -50,7 +50,7 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="assets/icons/macos.svg" title="mac" alt="mac" width="40" height="40"/>&nbsp;
