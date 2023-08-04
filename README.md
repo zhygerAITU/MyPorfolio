@@ -23,7 +23,7 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
 
 - :zap: Google Cybersecurity Professional Certificate - Completed with distinction [Date]
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhygerD) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhyger.0001@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-zhygerD-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhygerD) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhyger.0001@gmail.com)
 
 ---
 
