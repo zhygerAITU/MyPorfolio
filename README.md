@@ -45,6 +45,7 @@ As an entry-level cybersecurity analyst, I am exceptionally helpful due to my un
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="assets/icons/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="assets/icons/python.svg" title="Py" alt="Py" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
